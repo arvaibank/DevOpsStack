@@ -18,4 +18,4 @@
 /frontend/yarn-debug.log*
 /frontend/yarn-error.log*
 
-/backend/.target/
+backend/target/
